@@ -1,0 +1,1156 @@
+{
+    "status": "OK",
+    "size": 50,
+    "data": [
+        {
+            "id": "448739",
+            "teams": [
+                {
+                    "name": "Kiwizitos",
+                    "country": "br",
+                    "score": "1"
+                },
+                {
+                    "name": "Team Leveling",
+                    "country": "br",
+                    "score": "1"
+                }
+            ],
+            "status": "LIVE",
+            "event": "Main Event\u2013Lower Round 1",
+            "tournament": "Game Changers 2025 Brazil: Kickoff",
+            "img": "https://owcdn.net/img/604be13d01964.png",
+            "in": "",
+            "timestamp": 1739203200,
+            "utcDate": "Mon, 10 Feb 2025 16:00:00 GMT",
+            "utc": "2025-02-10T16:00:00.000Z"
+        },
+        {
+            "id": "445239",
+            "teams": [
+                {
+                    "name": "Blue Otter",
+                    "country": "us",
+                    "score": "1"
+                },
+                {
+                    "name": "Burger Boyz",
+                    "country": "us",
+                    "score": "0"
+                }
+            ],
+            "status": "LIVE",
+            "event": "Swiss Stage\u2013Week 3",
+            "tournament": "Challengers League 2025 North America ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "",
+            "timestamp": 1739208900,
+            "utcDate": "Mon, 10 Feb 2025 17:35:00 GMT",
+            "utc": "2025-02-10T17:35:00.000Z"
+        },
+        {
+            "id": "445240",
+            "teams": [
+                {
+                    "name": "YFP",
+                    "country": "us",
+                    "score": "0"
+                },
+                {
+                    "name": "Shopify Rebellion Black",
+                    "country": "us",
+                    "score": "0"
+                }
+            ],
+            "status": "LIVE",
+            "event": "Swiss Stage\u2013Week 3",
+            "tournament": "Challengers League 2025 North America ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "",
+            "timestamp": 1739208900,
+            "utcDate": "Mon, 10 Feb 2025 17:35:00 GMT",
+            "utc": "2025-02-10T17:35:00.000Z"
+        },
+        {
+            "id": "438176",
+            "teams": [
+                {
+                    "name": "BC SWELL",
+                    "country": "jp",
+                    "score": null
+                },
+                {
+                    "name": "Sengoku Gaming",
+                    "country": "jp",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Stage\u2013Lower Round 1",
+            "tournament": "Challengers League 2025 Japan: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "6h 46m",
+            "timestamp": 1739235600,
+            "utcDate": "Tue, 11 Feb 2025 01:00:00 GMT",
+            "utc": "2025-02-11T01:00:00.000Z"
+        },
+        {
+            "id": "440536",
+            "teams": [
+                {
+                    "name": "Dragon Ranger Gaming",
+                    "country": "cn",
+                    "score": null
+                },
+                {
+                    "name": "Wolves Esports",
+                    "country": "cn",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Event\u2013Quarterfinals",
+            "tournament": "China Evolution Series: Act 1",
+            "img": "https://owcdn.net/img/67a5eb9b2ccea.png",
+            "in": "8h 46m",
+            "timestamp": 1739242800,
+            "utcDate": "Tue, 11 Feb 2025 03:00:00 GMT",
+            "utc": "2025-02-11T03:00:00.000Z"
+        },
+        {
+            "id": "438177",
+            "teams": [
+                {
+                    "name": "Murash Gaming",
+                    "country": "jp",
+                    "score": null
+                },
+                {
+                    "name": "ZETA DIVISION Academy",
+                    "country": "jp",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Stage\u2013Lower Round 1",
+            "tournament": "Challengers League 2025 Japan: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "9h 46m",
+            "timestamp": 1739246400,
+            "utcDate": "Tue, 11 Feb 2025 04:00:00 GMT",
+            "utc": "2025-02-11T04:00:00.000Z"
+        },
+        {
+            "id": "431440",
+            "teams": [
+                {
+                    "name": "Team Secret Academy",
+                    "country": "ph",
+                    "score": null
+                },
+                {
+                    "name": "Z11",
+                    "country": "th",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Group Stage\u2013Week 5",
+            "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "10h 46m",
+            "timestamp": 1739250000,
+            "utcDate": "Tue, 11 Feb 2025 05:00:00 GMT",
+            "utc": "2025-02-11T05:00:00.000Z"
+        },
+        {
+            "id": "440537",
+            "teams": [
+                {
+                    "name": "Xi Lai Gaming",
+                    "country": "cn",
+                    "score": null
+                },
+                {
+                    "name": "JDG Esports",
+                    "country": "cn",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Event\u2013Quarterfinals",
+            "tournament": "China Evolution Series: Act 1",
+            "img": "https://owcdn.net/img/67a5eb9b2ccea.png",
+            "in": "10h 46m",
+            "timestamp": 1739250000,
+            "utcDate": "Tue, 11 Feb 2025 05:00:00 GMT",
+            "utc": "2025-02-11T05:00:00.000Z"
+        },
+        {
+            "id": "431441",
+            "teams": [
+                {
+                    "name": "Alter Ego",
+                    "country": "id",
+                    "score": null
+                },
+                {
+                    "name": "Oblivion Force",
+                    "country": "hk",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Group Stage\u2013Week 5",
+            "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "12h 46m",
+            "timestamp": 1739257200,
+            "utcDate": "Tue, 11 Feb 2025 07:00:00 GMT",
+            "utc": "2025-02-11T07:00:00.000Z"
+        },
+        {
+            "id": "448813",
+            "teams": [
+                {
+                    "name": "Galatasaray Esports",
+                    "country": "tr",
+                    "score": null
+                },
+                {
+                    "name": "Eternal Fire",
+                    "country": "tr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs Phase\u2013Lower Round 1",
+            "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+            "img": "https://owcdn.net/img/63a1b2d391745.png",
+            "in": "14h 16m",
+            "timestamp": 1739262600,
+            "utcDate": "Tue, 11 Feb 2025 08:30:00 GMT",
+            "utc": "2025-02-11T08:30:00.000Z"
+        },
+        {
+            "id": "448814",
+            "teams": [
+                {
+                    "name": "Fenerbah\u00e7e Esports",
+                    "country": "tr",
+                    "score": null
+                },
+                {
+                    "name": "S2G Esports",
+                    "country": "tr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs Phase\u2013Lower Round 1",
+            "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+            "img": "https://owcdn.net/img/63a1b2d391745.png",
+            "in": "17h 16m",
+            "timestamp": 1739273400,
+            "utcDate": "Tue, 11 Feb 2025 11:30:00 GMT",
+            "utc": "2025-02-11T11:30:00.000Z"
+        },
+        {
+            "id": "448741",
+            "teams": [
+                {
+                    "name": "Corinthians Esports Inclusivo",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Event\u2013Lower Round 2",
+            "tournament": "Game Changers 2025 Brazil: Kickoff",
+            "img": "https://owcdn.net/img/604be13d01964.png",
+            "in": "19h 46m",
+            "timestamp": 1739282400,
+            "utcDate": "Tue, 11 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-11T14:00:00.000Z"
+        },
+        {
+            "id": "448742",
+            "teams": [
+                {
+                    "name": "carameloo",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Event\u2013Lower Round 2",
+            "tournament": "Game Changers 2025 Brazil: Kickoff",
+            "img": "https://owcdn.net/img/604be13d01964.png",
+            "in": "19h 46m",
+            "timestamp": 1739282400,
+            "utcDate": "Tue, 11 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-11T14:00:00.000Z"
+        },
+        {
+            "id": "445241",
+            "teams": [
+                {
+                    "name": "RANKERS",
+                    "country": "us",
+                    "score": null
+                },
+                {
+                    "name": "Cubert Academy",
+                    "country": "us",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Swiss Stage\u2013Week 3",
+            "tournament": "Challengers League 2025 North America ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "20h 46m",
+            "timestamp": 1739286000,
+            "utcDate": "Tue, 11 Feb 2025 15:00:00 GMT",
+            "utc": "2025-02-11T15:00:00.000Z"
+        },
+        {
+            "id": "445242",
+            "teams": [
+                {
+                    "name": "Trust In Plug",
+                    "country": "us",
+                    "score": null
+                },
+                {
+                    "name": "SaD Esports",
+                    "country": "us",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Swiss Stage\u2013Week 3",
+            "tournament": "Challengers League 2025 North America ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "20h 46m",
+            "timestamp": 1739286000,
+            "utcDate": "Tue, 11 Feb 2025 15:00:00 GMT",
+            "utc": "2025-02-11T15:00:00.000Z"
+        },
+        {
+            "id": "440651",
+            "teams": [
+                {
+                    "name": "AB3 Esports",
+                    "country": "mx",
+                    "score": null
+                },
+                {
+                    "name": "Six Karma",
+                    "country": "mx",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "ACE Masters\u2013Decider (A)",
+            "tournament": "Challengers League 2025 LATAM North ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "21h 46m",
+            "timestamp": 1739289600,
+            "utcDate": "Tue, 11 Feb 2025 16:00:00 GMT",
+            "utc": "2025-02-11T16:00:00.000Z"
+        },
+        {
+            "id": "448737",
+            "teams": [
+                {
+                    "name": "MIBR GC",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "Team Liquid Brazil",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Event\u2013Upper Final",
+            "tournament": "Game Changers 2025 Brazil: Kickoff",
+            "img": "https://owcdn.net/img/604be13d01964.png",
+            "in": "21h 46m",
+            "timestamp": 1739289600,
+            "utcDate": "Tue, 11 Feb 2025 16:00:00 GMT",
+            "utc": "2025-02-11T16:00:00.000Z"
+        },
+        {
+            "id": "448743",
+            "teams": [
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Event\u2013Lower Round 3",
+            "tournament": "Game Changers 2025 Brazil: Kickoff",
+            "img": "https://owcdn.net/img/604be13d01964.png",
+            "in": "21h 46m",
+            "timestamp": 1739289600,
+            "utcDate": "Tue, 11 Feb 2025 16:00:00 GMT",
+            "utc": "2025-02-11T16:00:00.000Z"
+        },
+        {
+            "id": "445243",
+            "teams": [
+                {
+                    "name": "Ambrosia",
+                    "country": "ca",
+                    "score": null
+                },
+                {
+                    "name": "Hakikimori",
+                    "country": "us",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Swiss Stage\u2013Week 3",
+            "tournament": "Challengers League 2025 North America ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "23h 46m",
+            "timestamp": 1739296800,
+            "utcDate": "Tue, 11 Feb 2025 18:00:00 GMT",
+            "utc": "2025-02-11T18:00:00.000Z"
+        },
+        {
+            "id": "445244",
+            "teams": [
+                {
+                    "name": "Shopify Rebellion Gold",
+                    "country": "ca",
+                    "score": null
+                },
+                {
+                    "name": "QoR",
+                    "country": "us",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Swiss Stage\u2013Week 3",
+            "tournament": "Challengers League 2025 North America ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "23h 46m",
+            "timestamp": 1739296800,
+            "utcDate": "Tue, 11 Feb 2025 18:00:00 GMT",
+            "utc": "2025-02-11T18:00:00.000Z"
+        },
+        {
+            "id": "440656",
+            "teams": [
+                {
+                    "name": "Bon Bon Bum Contra",
+                    "country": "co",
+                    "score": null
+                },
+                {
+                    "name": "FUSION",
+                    "country": "do",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "ACE Masters\u2013Decider (B)",
+            "tournament": "Challengers League 2025 LATAM North ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "1d 0h",
+            "timestamp": 1739300400,
+            "utcDate": "Tue, 11 Feb 2025 19:00:00 GMT",
+            "utc": "2025-02-11T19:00:00.000Z"
+        },
+        {
+            "id": "438170",
+            "teams": [
+                {
+                    "name": "SCARZ",
+                    "country": "jp",
+                    "score": null
+                },
+                {
+                    "name": "RIDDLE ORDER",
+                    "country": "jp",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Stage\u2013Upper Semifinals",
+            "tournament": "Challengers League 2025 Japan: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "1d 6h",
+            "timestamp": 1739322000,
+            "utcDate": "Wed, 12 Feb 2025 01:00:00 GMT",
+            "utc": "2025-02-12T01:00:00.000Z"
+        },
+        {
+            "id": "440788",
+            "teams": [
+                {
+                    "name": "T1 Academy",
+                    "country": "kr",
+                    "score": null
+                },
+                {
+                    "name": "FEARX",
+                    "country": "kr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Round Robin\u2013Week 2",
+            "tournament": "WDG Challengers League 2025 Korea: Stage 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "1d 7h",
+            "timestamp": 1739325600,
+            "utcDate": "Wed, 12 Feb 2025 02:00:00 GMT",
+            "utc": "2025-02-12T02:00:00.000Z"
+        },
+        {
+            "id": "438171",
+            "teams": [
+                {
+                    "name": "FENNEL",
+                    "country": "jp",
+                    "score": null
+                },
+                {
+                    "name": "REJECT",
+                    "country": "jp",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Main Stage\u2013Upper Semifinals",
+            "tournament": "Challengers League 2025 Japan: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "1d 9h",
+            "timestamp": 1739332800,
+            "utcDate": "Wed, 12 Feb 2025 04:00:00 GMT",
+            "utc": "2025-02-12T04:00:00.000Z"
+        },
+        {
+            "id": "440789",
+            "teams": [
+                {
+                    "name": "FN Pocheon",
+                    "country": "kr",
+                    "score": null
+                },
+                {
+                    "name": "DRX Academy",
+                    "country": "kr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Round Robin\u2013Week 2",
+            "tournament": "WDG Challengers League 2025 Korea: Stage 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "1d 9h",
+            "timestamp": 1739332800,
+            "utcDate": "Wed, 12 Feb 2025 04:00:00 GMT",
+            "utc": "2025-02-12T04:00:00.000Z"
+        },
+        {
+            "id": "431442",
+            "teams": [
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs\u2013Knockout Round",
+            "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "1d 10h",
+            "timestamp": 1739336400,
+            "utcDate": "Wed, 12 Feb 2025 05:00:00 GMT",
+            "utc": "2025-02-12T05:00:00.000Z"
+        },
+        {
+            "id": "431443",
+            "teams": [
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs\u2013Knockout Round",
+            "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "1d 12h",
+            "timestamp": 1739343600,
+            "utcDate": "Wed, 12 Feb 2025 07:00:00 GMT",
+            "utc": "2025-02-12T07:00:00.000Z"
+        },
+        {
+            "id": "448815",
+            "teams": [
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs Phase\u2013Lower Round 2",
+            "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+            "img": "https://owcdn.net/img/63a1b2d391745.png",
+            "in": "1d 14h",
+            "timestamp": 1739349000,
+            "utcDate": "Wed, 12 Feb 2025 08:30:00 GMT",
+            "utc": "2025-02-12T08:30:00.000Z"
+        },
+        {
+            "id": "435512",
+            "teams": [
+                {
+                    "name": "Falke Esports",
+                    "country": "pt",
+                    "score": null
+                },
+                {
+                    "name": "Ramboot Club",
+                    "country": "es",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Regular Season\u2013Day 9",
+            "tournament": "Challengers League 2025 Spain Rising: Split 1",
+            "img": "https://owcdn.net/img/63a1b03f5f599.png",
+            "in": "1d 15h",
+            "timestamp": 1739354400,
+            "utcDate": "Wed, 12 Feb 2025 10:00:00 GMT",
+            "utc": "2025-02-12T10:00:00.000Z"
+        },
+        {
+            "id": "435513",
+            "teams": [
+                {
+                    "name": "ZETA Gaming",
+                    "country": "es",
+                    "score": null
+                },
+                {
+                    "name": "NOVO Esports",
+                    "country": "it",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Regular Season\u2013Day 9",
+            "tournament": "Challengers League 2025 Spain Rising: Split 1",
+            "img": "https://owcdn.net/img/63a1b03f5f599.png",
+            "in": "1d 15h",
+            "timestamp": 1739354400,
+            "utcDate": "Wed, 12 Feb 2025 10:00:00 GMT",
+            "utc": "2025-02-12T10:00:00.000Z"
+        },
+        {
+            "id": "448816",
+            "teams": [
+                {
+                    "name": "BBL PCIFIC",
+                    "country": "tr",
+                    "score": null
+                },
+                {
+                    "name": "\u0130stanbul Wildcats",
+                    "country": "tr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs Phase\u2013Upper Final",
+            "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+            "img": "https://owcdn.net/img/63a1b2d391745.png",
+            "in": "1d 17h",
+            "timestamp": 1739359800,
+            "utcDate": "Wed, 12 Feb 2025 11:30:00 GMT",
+            "utc": "2025-02-12T11:30:00.000Z"
+        },
+        {
+            "id": "435510",
+            "teams": [
+                {
+                    "name": "DNSTY",
+                    "country": "it",
+                    "score": null
+                },
+                {
+                    "name": "HGE Esport",
+                    "country": "it",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Regular Season\u2013Day 9",
+            "tournament": "Challengers League 2025 Spain Rising: Split 1",
+            "img": "https://owcdn.net/img/63a1b03f5f599.png",
+            "in": "1d 17h",
+            "timestamp": 1739361600,
+            "utcDate": "Wed, 12 Feb 2025 12:00:00 GMT",
+            "utc": "2025-02-12T12:00:00.000Z"
+        },
+        {
+            "id": "435511",
+            "teams": [
+                {
+                    "name": "KOI F\u00e9nix",
+                    "country": "eu",
+                    "score": null
+                },
+                {
+                    "name": "Bar\u00e7a eSports",
+                    "country": "es",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Regular Season\u2013Day 9",
+            "tournament": "Challengers League 2025 Spain Rising: Split 1",
+            "img": "https://owcdn.net/img/63a1b03f5f599.png",
+            "in": "1d 17h",
+            "timestamp": 1739361600,
+            "utcDate": "Wed, 12 Feb 2025 12:00:00 GMT",
+            "utc": "2025-02-12T12:00:00.000Z"
+        },
+        {
+            "id": "440667",
+            "teams": [
+                {
+                    "name": "Zen eSports",
+                    "country": "ar",
+                    "score": null
+                },
+                {
+                    "name": "Nottingham Miedo",
+                    "country": "ar",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "ACE Masters\u2013Decider (A)",
+            "tournament": "Challengers League 2025 LATAM South ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "1d 18h",
+            "timestamp": 1739365200,
+            "utcDate": "Wed, 12 Feb 2025 13:00:00 GMT",
+            "utc": "2025-02-12T13:00:00.000Z"
+        },
+        {
+            "id": "435509",
+            "teams": [
+                {
+                    "name": "UCAM Esports Club",
+                    "country": "eu",
+                    "score": null
+                },
+                {
+                    "name": "KPI Gaming",
+                    "country": "eu",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Regular Season\u2013Day 9",
+            "tournament": "Challengers League 2025 Spain Rising: Split 1",
+            "img": "https://owcdn.net/img/63a1b03f5f599.png",
+            "in": "1d 19h",
+            "timestamp": 1739368800,
+            "utcDate": "Wed, 12 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-12T14:00:00.000Z"
+        },
+        {
+            "id": "441310",
+            "teams": [
+                {
+                    "name": "Corinthians Esports",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "TBK Esports",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Groups\u2013Round 1",
+            "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+            "img": "https://owcdn.net/img/66203e302897c.png",
+            "in": "1d 19h",
+            "timestamp": 1739368800,
+            "utcDate": "Wed, 12 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-12T14:00:00.000Z"
+        },
+        {
+            "id": "441311",
+            "teams": [
+                {
+                    "name": "RED Canids",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "FURIA Academy",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Groups\u2013Round 1",
+            "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+            "img": "https://owcdn.net/img/66203e302897c.png",
+            "in": "1d 19h",
+            "timestamp": 1739368800,
+            "utcDate": "Wed, 12 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-12T14:00:00.000Z"
+        },
+        {
+            "id": "440672",
+            "teams": [
+                {
+                    "name": "9z Team",
+                    "country": "cl",
+                    "score": null
+                },
+                {
+                    "name": "Rebirth Esports",
+                    "country": "cl",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "ACE Masters\u2013Decider (B)",
+            "tournament": "Challengers League 2025 LATAM South ACE: Stage 1",
+            "img": "https://owcdn.net/img/63cbac52cf906.png",
+            "in": "1d 21h",
+            "timestamp": 1739376000,
+            "utcDate": "Wed, 12 Feb 2025 16:00:00 GMT",
+            "utc": "2025-02-12T16:00:00.000Z"
+        },
+        {
+            "id": "441312",
+            "teams": [
+                {
+                    "name": "Gr\u00eamio Esports",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "MIBR Academy",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Groups\u2013Round 1",
+            "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+            "img": "https://owcdn.net/img/66203e302897c.png",
+            "in": "1d 22h",
+            "timestamp": 1739379600,
+            "utcDate": "Wed, 12 Feb 2025 17:00:00 GMT",
+            "utc": "2025-02-12T17:00:00.000Z"
+        },
+        {
+            "id": "440790",
+            "teams": [
+                {
+                    "name": "Dplus Esports",
+                    "country": "kr",
+                    "score": null
+                },
+                {
+                    "name": "Gen.G Global Academy",
+                    "country": "kr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Round Robin\u2013Week 2",
+            "tournament": "WDG Challengers League 2025 Korea: Stage 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "2d 7h",
+            "timestamp": 1739412000,
+            "utcDate": "Thu, 13 Feb 2025 02:00:00 GMT",
+            "utc": "2025-02-13T02:00:00.000Z"
+        },
+        {
+            "id": "440791",
+            "teams": [
+                {
+                    "name": "SLT Seongnam",
+                    "country": "kr",
+                    "score": null
+                },
+                {
+                    "name": "SHERPA",
+                    "country": "kr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Round Robin\u2013Week 2",
+            "tournament": "WDG Challengers League 2025 Korea: Stage 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "2d 9h",
+            "timestamp": 1739419200,
+            "utcDate": "Thu, 13 Feb 2025 04:00:00 GMT",
+            "utc": "2025-02-13T04:00:00.000Z"
+        },
+        {
+            "id": "431444",
+            "teams": [
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs\u2013Upper Semifinals",
+            "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "2d 10h",
+            "timestamp": 1739422800,
+            "utcDate": "Thu, 13 Feb 2025 05:00:00 GMT",
+            "utc": "2025-02-13T05:00:00.000Z"
+        },
+        {
+            "id": "431445",
+            "teams": [
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                },
+                {
+                    "name": "TBD",
+                    "country": "un",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs\u2013Upper Semifinals",
+            "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "2d 12h",
+            "timestamp": 1739430000,
+            "utcDate": "Thu, 13 Feb 2025 07:00:00 GMT",
+            "utc": "2025-02-13T07:00:00.000Z"
+        },
+        {
+            "id": "442299",
+            "teams": [
+                {
+                    "name": "SweetNsour",
+                    "country": "eu",
+                    "score": null
+                },
+                {
+                    "name": "Metizport",
+                    "country": "eu",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs\u2013Lower Round 2",
+            "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+            "img": "https://owcdn.net/img/678fd5e60056e.png",
+            "in": "2d 14h",
+            "timestamp": 1739437200,
+            "utcDate": "Thu, 13 Feb 2025 09:00:00 GMT",
+            "utc": "2025-02-13T09:00:00.000Z"
+        },
+        {
+            "id": "442300",
+            "teams": [
+                {
+                    "name": "Zero Tenacity",
+                    "country": "pl",
+                    "score": null
+                },
+                {
+                    "name": "Enterprise Esports",
+                    "country": "pl",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Playoffs\u2013Lower Round 2",
+            "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+            "img": "https://owcdn.net/img/678fd5e60056e.png",
+            "in": "2d 17h",
+            "timestamp": 1739446200,
+            "utcDate": "Thu, 13 Feb 2025 11:30:00 GMT",
+            "utc": "2025-02-13T11:30:00.000Z"
+        },
+        {
+            "id": "441313",
+            "teams": [
+                {
+                    "name": "Los Grandes",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "Stellae Gaming",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Groups\u2013Round 1",
+            "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+            "img": "https://owcdn.net/img/66203e302897c.png",
+            "in": "2d 19h",
+            "timestamp": 1739455200,
+            "utcDate": "Thu, 13 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-13T14:00:00.000Z"
+        },
+        {
+            "id": "441314",
+            "teams": [
+                {
+                    "name": "Vila do Zana X",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "2G Esports Academy",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Groups\u2013Round 1",
+            "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+            "img": "https://owcdn.net/img/66203e302897c.png",
+            "in": "2d 19h",
+            "timestamp": 1739455200,
+            "utcDate": "Thu, 13 Feb 2025 14:00:00 GMT",
+            "utc": "2025-02-13T14:00:00.000Z"
+        },
+        {
+            "id": "441315",
+            "teams": [
+                {
+                    "name": "PEEK",
+                    "country": "br",
+                    "score": null
+                },
+                {
+                    "name": "F4TALITY",
+                    "country": "br",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Groups\u2013Round 1",
+            "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+            "img": "https://owcdn.net/img/66203e302897c.png",
+            "in": "2d 22h",
+            "timestamp": 1739466000,
+            "utcDate": "Thu, 13 Feb 2025 17:00:00 GMT",
+            "utc": "2025-02-13T17:00:00.000Z"
+        },
+        {
+            "id": "440792",
+            "teams": [
+                {
+                    "name": "DRX Academy",
+                    "country": "kr",
+                    "score": null
+                },
+                {
+                    "name": "FEARX",
+                    "country": "kr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Round Robin\u2013Week 2",
+            "tournament": "WDG Challengers League 2025 Korea: Stage 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "3d 4h",
+            "timestamp": 1739487600,
+            "utcDate": "Thu, 13 Feb 2025 23:00:00 GMT",
+            "utc": "2025-02-13T23:00:00.000Z"
+        },
+        {
+            "id": "440793",
+            "teams": [
+                {
+                    "name": "T1 Academy",
+                    "country": "kr",
+                    "score": null
+                },
+                {
+                    "name": "FN Pocheon",
+                    "country": "kr",
+                    "score": null
+                }
+            ],
+            "status": "Upcoming",
+            "event": "Round Robin\u2013Week 2",
+            "tournament": "WDG Challengers League 2025 Korea: Stage 1",
+            "img": "https://owcdn.net/img/6009f963577f4.png",
+            "in": "3d 4h",
+            "timestamp": 1739487600,
+            "utcDate": "Thu, 13 Feb 2025 23:00:00 GMT",
+            "utc": "2025-02-13T23:00:00.000Z"
+        }
+    ]
+}
