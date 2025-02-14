@@ -1,6 +1,7 @@
 import smtplib
 from email.message import EmailMessage
 from dotenv import dotenv_values
+import http.client, urllib
 
 # Load credentials from .env file
 config = dotenv_values(".env")
@@ -8,8 +9,10 @@ config = dotenv_values(".env")
 GMAIL_USERNAME = config.get('GMAIL_USERNAME')
 GMAIL_PW = config.get('GMAIL_SMTP_PW')
 RECIPIENT_EMAIL = config.get('RECIPIENT_EMAIL')
+APP_TOKEN = config.get("PUSHOVER_API_TOKEN")
+USER_KEY = config.get("PUSHOVER_USER_KEY")
 
-
+# SMTP server function to send an email with a specified message
 def sendEmailSMTP(message):
     try:
         smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
@@ -23,36 +26,41 @@ def sendEmailSMTP(message):
         print(f"SMTP Authentication Error: {e}")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
+        
 
-
-def constructMessage():
+# Construct email message to send with pushover
+def constructMessage(subject, message):
     msg = EmailMessage()
-    msg['Subject'] = "Valorant Logo Test"
+    msg['Subject'] = subject
     msg['From'] = GMAIL_USERNAME
     msg['To'] = RECIPIENT_EMAIL
     
-    # Explicitly set message type to multipart/related
-    msg.set_content("This is a test email with an inline image.", subtype="plain")
 
-    # HTML content referring to Content-ID
-    html_content = """
+
+    # HTML content referring to Content-ID, using an f-string to insert the message
+    html_content = f"""
     <html>
     <body>
-        <p>THIS IS A TEST</p>
-        <img src="cid:image1">
+        <p>{message}</p>
     </body>
     </html>
     """
 
     msg.add_alternative(html_content, subtype='html')
 
-    # Read and attach image with Content-ID for inline embedding
-    with open("newLogo.png", 'rb') as img:
-        msg.get_payload()[1].add_related(img.read(), maintype="image", subtype="png", cid="image1")
-
     return msg
 
 
-# Construct and send email
-email_msg = constructMessage()
-sendEmailSMTP(email_msg)
+# Function to send a push notification with Pushover API
+def pushoverNotification(message, title="VCT Updates"):
+    # HTTPS Connection object
+    conn = http.client.HTTPSConnection("api.pushover.net:443")
+    conn.request("POST", "/1/messages.json",
+    urllib.parse.urlencode({
+        "token": APP_TOKEN,
+        "user": USER_KEY,
+        "message": message,
+        "title": title,
+    }), { "Content-type": "application/x-www-form-urlencoded" })
+    conn.getresponse()
+

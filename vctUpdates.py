@@ -1,5 +1,5 @@
-from emailUpdate import sendEmailSMTP, constructMessage
-from vlrInfo import importVLRJSON
+from notificationOptions import *
+from vlrInfo import *
 
 #importVLRJSON()
 # Create Email
