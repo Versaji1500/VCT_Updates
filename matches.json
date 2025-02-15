@@ -8,7 +8,7 @@
                 {
                     "name": "YFP X",
                     "country": "us",
-                    "score": "0"
+                    "score": "1"
                 },
                 {
                     "name": "Wadadaa",
@@ -43,10 +43,10 @@
             "event": "Main Event\u2013Lower Round 3",
             "tournament": "Game Changers 2025 North America: Kickoff",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "41m",
-            "timestamp": 1739557800,
-            "utcDate": "Fri, 14 Feb 2025 18:30:00 GMT",
-            "utc": "2025-02-14T18:30:00.000Z"
+            "in": "1h 27m",
+            "timestamp": 1739561400,
+            "utcDate": "Fri, 14 Feb 2025 19:30:00 GMT",
+            "utc": "2025-02-14T19:30:00.000Z"
         },
         {
             "id": "438180",
@@ -66,7 +66,7 @@
             "event": "Main Stage\u2013Lower Round 3",
             "tournament": "Challengers League 2025 Japan: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "7h 11m",
+            "in": "6h 57m",
             "timestamp": 1739581200,
             "utcDate": "Sat, 15 Feb 2025 01:00:00 GMT",
             "utc": "2025-02-15T01:00:00.000Z"
@@ -89,7 +89,7 @@
             "event": "Main Event\u2013Consolation Final",
             "tournament": "China Evolution Series: Act 1",
             "img": "https://owcdn.net/img/67a5eb9b2ccea.png",
-            "in": "9h 11m",
+            "in": "8h 57m",
             "timestamp": 1739588400,
             "utcDate": "Sat, 15 Feb 2025 03:00:00 GMT",
             "utc": "2025-02-15T03:00:00.000Z"
@@ -112,7 +112,7 @@
             "event": "Main Stage\u2013Lower Round 3",
             "tournament": "Challengers League 2025 Japan: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "10h 11m",
+            "in": "9h 57m",
             "timestamp": 1739592000,
             "utcDate": "Sat, 15 Feb 2025 04:00:00 GMT",
             "utc": "2025-02-15T04:00:00.000Z"
@@ -135,7 +135,7 @@
             "event": "Playoffs\u2013Lower Final",
             "tournament": "Challengers League 2025 Southeast Asia: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "11h 11m",
+            "in": "10h 57m",
             "timestamp": 1739595600,
             "utcDate": "Sat, 15 Feb 2025 05:00:00 GMT",
             "utc": "2025-02-15T05:00:00.000Z"
@@ -158,7 +158,7 @@
             "event": "Playoffs\u2013Semifinals",
             "tournament": "Challengers League 2025 DACH: Evolution Split 1",
             "img": "https://owcdn.net/img/63a1c7a4e584e.png",
-            "in": "14h 11m",
+            "in": "13h 57m",
             "timestamp": 1739606400,
             "utcDate": "Sat, 15 Feb 2025 08:00:00 GMT",
             "utc": "2025-02-15T08:00:00.000Z"
@@ -181,7 +181,7 @@
             "event": "Playoffs Phase\u2013Lower Final",
             "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
             "img": "https://owcdn.net/img/63a1b2d391745.png",
-            "in": "15h 11m",
+            "in": "14h 57m",
             "timestamp": 1739610000,
             "utcDate": "Sat, 15 Feb 2025 09:00:00 GMT",
             "utc": "2025-02-15T09:00:00.000Z"
@@ -204,7 +204,7 @@
             "event": "Playoffs Phase\u2013Grand Final",
             "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
             "img": "https://owcdn.net/img/63a1b2d391745.png",
-            "in": "15h 11m",
+            "in": "14h 57m",
             "timestamp": 1739610000,
             "utcDate": "Sat, 15 Feb 2025 09:00:00 GMT",
             "utc": "2025-02-15T09:00:00.000Z"
@@ -227,7 +227,7 @@
             "event": "Playoffs Phase\u2013Semifinals",
             "tournament": "Challengers League 2025 France: Revolution Split 1",
             "img": "https://owcdn.net/img/63a1b6db0a21a.png",
-            "in": "16h 11m",
+            "in": "15h 57m",
             "timestamp": 1739613600,
             "utcDate": "Sat, 15 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-15T10:00:00.000Z"
@@ -250,7 +250,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "16h 11m",
+            "in": "15h 57m",
             "timestamp": 1739613600,
             "utcDate": "Sat, 15 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-15T10:00:00.000Z"
@@ -273,7 +273,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "16h 11m",
+            "in": "15h 57m",
             "timestamp": 1739613600,
             "utcDate": "Sat, 15 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-15T10:00:00.000Z"
@@ -296,7 +296,7 @@
             "event": "Playoffs\u2013Lower Final",
             "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
             "img": "https://owcdn.net/img/678fd5e60056e.png",
-            "in": "17h 11m",
+            "in": "16h 57m",
             "timestamp": 1739617200,
             "utcDate": "Sat, 15 Feb 2025 11:00:00 GMT",
             "utc": "2025-02-15T11:00:00.000Z"
@@ -319,7 +319,7 @@
             "event": "Playoffs\u2013Semifinals",
             "tournament": "Challengers League 2025 DACH: Evolution Split 1",
             "img": "https://owcdn.net/img/63a1c7a4e584e.png",
-            "in": "18h 11m",
+            "in": "17h 57m",
             "timestamp": 1739620800,
             "utcDate": "Sat, 15 Feb 2025 12:00:00 GMT",
             "utc": "2025-02-15T12:00:00.000Z"
@@ -342,7 +342,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "19h 11m",
+            "in": "18h 57m",
             "timestamp": 1739624400,
             "utcDate": "Sat, 15 Feb 2025 13:00:00 GMT",
             "utc": "2025-02-15T13:00:00.000Z"
@@ -365,7 +365,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "19h 11m",
+            "in": "18h 57m",
             "timestamp": 1739624400,
             "utcDate": "Sat, 15 Feb 2025 13:00:00 GMT",
             "utc": "2025-02-15T13:00:00.000Z"
@@ -388,7 +388,7 @@
             "event": "Main Event\u2013Lower Final",
             "tournament": "Game Changers 2025 North America: Kickoff",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "22h 11m",
+            "in": "21h 57m",
             "timestamp": 1739635200,
             "utcDate": "Sat, 15 Feb 2025 16:00:00 GMT",
             "utc": "2025-02-15T16:00:00.000Z"
@@ -411,7 +411,7 @@
             "event": "Main Stage\u2013Upper Final",
             "tournament": "Challengers League 2025 Japan: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "1d 7h",
+            "in": "1d 6h",
             "timestamp": 1739667600,
             "utcDate": "Sun, 16 Feb 2025 01:00:00 GMT",
             "utc": "2025-02-16T01:00:00.000Z"
@@ -434,7 +434,7 @@
             "event": "Main Event\u2013Grand Final",
             "tournament": "China Evolution Series: Act 1",
             "img": "https://owcdn.net/img/67a5eb9b2ccea.png",
-            "in": "1d 9h",
+            "in": "1d 8h",
             "timestamp": 1739674800,
             "utcDate": "Sun, 16 Feb 2025 03:00:00 GMT",
             "utc": "2025-02-16T03:00:00.000Z"
@@ -457,7 +457,7 @@
             "event": "Main Stage\u2013Lower Round 4",
             "tournament": "Challengers League 2025 Japan: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "1d 10h",
+            "in": "1d 9h",
             "timestamp": 1739678400,
             "utcDate": "Sun, 16 Feb 2025 04:00:00 GMT",
             "utc": "2025-02-16T04:00:00.000Z"
@@ -480,7 +480,7 @@
             "event": "Playoffs\u2013Grand Final",
             "tournament": "Challengers League 2025 Southeast Asia: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "1d 13h",
+            "in": "1d 12h",
             "timestamp": 1739689200,
             "utcDate": "Sun, 16 Feb 2025 07:00:00 GMT",
             "utc": "2025-02-16T07:00:00.000Z"
@@ -526,7 +526,7 @@
             "event": "Playoffs Phase\u2013Semifinals",
             "tournament": "Challengers League 2025 France: Revolution Split 1",
             "img": "https://owcdn.net/img/63a1b6db0a21a.png",
-            "in": "1d 16h",
+            "in": "1d 15h",
             "timestamp": 1739700000,
             "utcDate": "Sun, 16 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-16T10:00:00.000Z"
@@ -549,7 +549,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "1d 16h",
+            "in": "1d 15h",
             "timestamp": 1739700000,
             "utcDate": "Sun, 16 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-16T10:00:00.000Z"
@@ -572,7 +572,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "1d 16h",
+            "in": "1d 15h",
             "timestamp": 1739700000,
             "utcDate": "Sun, 16 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-16T10:00:00.000Z"
@@ -595,7 +595,7 @@
             "event": "Playoffs\u2013Grand Final",
             "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
             "img": "https://owcdn.net/img/678fd5e60056e.png",
-            "in": "1d 17h",
+            "in": "1d 16h",
             "timestamp": 1739703600,
             "utcDate": "Sun, 16 Feb 2025 11:00:00 GMT",
             "utc": "2025-02-16T11:00:00.000Z"
@@ -618,7 +618,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "1d 19h",
+            "in": "1d 18h",
             "timestamp": 1739710800,
             "utcDate": "Sun, 16 Feb 2025 13:00:00 GMT",
             "utc": "2025-02-16T13:00:00.000Z"
@@ -641,7 +641,7 @@
             "event": "Main Event\u2013Lower Final",
             "tournament": "Game Changers 2025 Brazil: Kickoff",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "1d 20h",
+            "in": "1d 19h",
             "timestamp": 1739714400,
             "utcDate": "Sun, 16 Feb 2025 14:00:00 GMT",
             "utc": "2025-02-16T14:00:00.000Z"
@@ -664,7 +664,7 @@
             "event": "ACE Masters\u2013Semifinals",
             "tournament": "Challengers League 2025 LATAM North ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "1d 22h",
+            "in": "1d 21h",
             "timestamp": 1739721600,
             "utcDate": "Sun, 16 Feb 2025 16:00:00 GMT",
             "utc": "2025-02-16T16:00:00.000Z"
@@ -687,7 +687,7 @@
             "event": "Main Event\u2013Grand Final",
             "tournament": "Game Changers 2025 North America: Kickoff",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "1d 22h",
+            "in": "1d 21h",
             "timestamp": 1739721600,
             "utcDate": "Sun, 16 Feb 2025 16:00:00 GMT",
             "utc": "2025-02-16T16:00:00.000Z"
@@ -710,7 +710,7 @@
             "event": "ACE Masters\u2013Semifinals",
             "tournament": "Challengers League 2025 LATAM North ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "2d 1h",
+            "in": "2d 0h",
             "timestamp": 1739732400,
             "utcDate": "Sun, 16 Feb 2025 19:00:00 GMT",
             "utc": "2025-02-16T19:00:00.000Z"
@@ -733,7 +733,7 @@
             "event": "Main Stage\u2013Lower Final",
             "tournament": "Challengers League 2025 Japan: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "2d 8h",
+            "in": "2d 7h",
             "timestamp": 1739757600,
             "utcDate": "Mon, 17 Feb 2025 02:00:00 GMT",
             "utc": "2025-02-17T02:00:00.000Z"
@@ -756,7 +756,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "2d 16h",
+            "in": "2d 15h",
             "timestamp": 1739786400,
             "utcDate": "Mon, 17 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-17T10:00:00.000Z"
@@ -779,7 +779,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "2d 16h",
+            "in": "2d 15h",
             "timestamp": 1739786400,
             "utcDate": "Mon, 17 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-17T10:00:00.000Z"
@@ -802,7 +802,7 @@
             "event": "Playoffs\u2013Semifinals",
             "tournament": "Challengers League 2025 Spain Rising: Split 1",
             "img": "https://owcdn.net/img/63a1b03f5f599.png",
-            "in": "2d 17h",
+            "in": "2d 16h",
             "timestamp": 1739790000,
             "utcDate": "Mon, 17 Feb 2025 11:00:00 GMT",
             "utc": "2025-02-17T11:00:00.000Z"
@@ -825,7 +825,7 @@
             "event": "ACE Masters\u2013Semifinals",
             "tournament": "Challengers League 2025 LATAM South ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "2d 19h",
+            "in": "2d 18h",
             "timestamp": 1739797200,
             "utcDate": "Mon, 17 Feb 2025 13:00:00 GMT",
             "utc": "2025-02-17T13:00:00.000Z"
@@ -848,7 +848,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "2d 19h",
+            "in": "2d 18h",
             "timestamp": 1739797200,
             "utcDate": "Mon, 17 Feb 2025 13:00:00 GMT",
             "utc": "2025-02-17T13:00:00.000Z"
@@ -871,7 +871,7 @@
             "event": "Group Stage\u2013Week 1",
             "tournament": "Game Changers 2025 EMEA: Stage 1",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "2d 19h",
+            "in": "2d 18h",
             "timestamp": 1739797200,
             "utcDate": "Mon, 17 Feb 2025 13:00:00 GMT",
             "utc": "2025-02-17T13:00:00.000Z"
@@ -894,7 +894,7 @@
             "event": "Main Event\u2013Grand Final",
             "tournament": "Game Changers 2025 Brazil: Kickoff",
             "img": "https://owcdn.net/img/604be13d01964.png",
-            "in": "2d 20h",
+            "in": "2d 19h",
             "timestamp": 1739800800,
             "utcDate": "Mon, 17 Feb 2025 14:00:00 GMT",
             "utc": "2025-02-17T14:00:00.000Z"
@@ -917,7 +917,7 @@
             "event": "Swiss Stage\u2013Round 4",
             "tournament": "Challengers League 2025 North America ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "2d 21h",
+            "in": "2d 20h",
             "timestamp": 1739804400,
             "utcDate": "Mon, 17 Feb 2025 15:00:00 GMT",
             "utc": "2025-02-17T15:00:00.000Z"
@@ -940,7 +940,7 @@
             "event": "Swiss Stage\u2013Round 4",
             "tournament": "Challengers League 2025 North America ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "2d 21h",
+            "in": "2d 20h",
             "timestamp": 1739804400,
             "utcDate": "Mon, 17 Feb 2025 15:00:00 GMT",
             "utc": "2025-02-17T15:00:00.000Z"
@@ -963,7 +963,7 @@
             "event": "ACE Masters\u2013Semifinals",
             "tournament": "Challengers League 2025 LATAM South ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "2d 22h",
+            "in": "2d 21h",
             "timestamp": 1739808000,
             "utcDate": "Mon, 17 Feb 2025 16:00:00 GMT",
             "utc": "2025-02-17T16:00:00.000Z"
@@ -986,7 +986,7 @@
             "event": "Swiss Stage\u2013Round 4",
             "tournament": "Challengers League 2025 North America ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "3d 0h",
+            "in": "2d 23h",
             "timestamp": 1739815200,
             "utcDate": "Mon, 17 Feb 2025 18:00:00 GMT",
             "utc": "2025-02-17T18:00:00.000Z"
@@ -1009,7 +1009,7 @@
             "event": "Swiss Stage\u2013Round 4",
             "tournament": "Challengers League 2025 North America ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "3d 0h",
+            "in": "2d 23h",
             "timestamp": 1739815200,
             "utcDate": "Mon, 17 Feb 2025 18:00:00 GMT",
             "utc": "2025-02-17T18:00:00.000Z"
@@ -1032,7 +1032,7 @@
             "event": "Main Stage\u2013Grand Final",
             "tournament": "Challengers League 2025 Japan: Split 1",
             "img": "https://owcdn.net/img/6009f963577f4.png",
-            "in": "3d 8h",
+            "in": "3d 7h",
             "timestamp": 1739844000,
             "utcDate": "Tue, 18 Feb 2025 02:00:00 GMT",
             "utc": "2025-02-18T02:00:00.000Z"
@@ -1055,7 +1055,7 @@
             "event": "Playoffs Phase\u2013Grand Final",
             "tournament": "Challengers League 2025 France: Revolution Split 1",
             "img": "https://owcdn.net/img/63a1b6db0a21a.png",
-            "in": "3d 16h",
+            "in": "3d 15h",
             "timestamp": 1739872800,
             "utcDate": "Tue, 18 Feb 2025 10:00:00 GMT",
             "utc": "2025-02-18T10:00:00.000Z"
@@ -1078,7 +1078,7 @@
             "event": "Playoffs\u2013Semifinals",
             "tournament": "Challengers League 2025 Spain Rising: Split 1",
             "img": "https://owcdn.net/img/63a1b03f5f599.png",
-            "in": "3d 17h",
+            "in": "3d 16h",
             "timestamp": 1739876400,
             "utcDate": "Tue, 18 Feb 2025 11:00:00 GMT",
             "utc": "2025-02-18T11:00:00.000Z"
@@ -1101,7 +1101,7 @@
             "event": "Regular Phase\u2013Round 2",
             "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
             "img": "https://owcdn.net/img/66203e302897c.png",
-            "in": "3d 20h",
+            "in": "3d 19h",
             "timestamp": 1739887200,
             "utcDate": "Tue, 18 Feb 2025 14:00:00 GMT",
             "utc": "2025-02-18T14:00:00.000Z"
@@ -1124,7 +1124,7 @@
             "event": "Regular Phase\u2013Round 2",
             "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
             "img": "https://owcdn.net/img/66203e302897c.png",
-            "in": "3d 20h",
+            "in": "3d 19h",
             "timestamp": 1739887200,
             "utcDate": "Tue, 18 Feb 2025 14:00:00 GMT",
             "utc": "2025-02-18T14:00:00.000Z"
@@ -1147,7 +1147,7 @@
             "event": "ACE Masters\u2013Grand Final",
             "tournament": "Challengers League 2025 LATAM North ACE: Stage 1",
             "img": "https://owcdn.net/img/63cbac52cf906.png",
-            "in": "3d 22h",
+            "in": "3d 21h",
             "timestamp": 1739894400,
             "utcDate": "Tue, 18 Feb 2025 16:00:00 GMT",
             "utc": "2025-02-18T16:00:00.000Z"

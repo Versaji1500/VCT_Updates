@@ -6,6 +6,7 @@ import http.client, urllib
 # Load credentials from .env file
 config = dotenv_values(".env")
 
+# Credentials pulled as variables from env file
 GMAIL_USERNAME = config.get('GMAIL_USERNAME')
 GMAIL_PW = config.get('GMAIL_SMTP_PW')
 RECIPIENT_EMAIL = config.get('RECIPIENT_EMAIL')
