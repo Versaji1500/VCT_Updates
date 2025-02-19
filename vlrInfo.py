@@ -1,6 +1,15 @@
 import requests
 import json
 
+'''
+This is code to grab information from the VLR API and save
+it to the appropriate JSON file
+
+There are multiple types of information so the functions
+are designed separately to account for each one
+'''
+
+
 # Arrays with events and teams to check for in JSON file
 urls = {"events": 'https://vlr.orlandomm.net/api/v1/events',
         "matches": 'https://vlr.orlandomm.net/api/v1/matches',
@@ -37,6 +46,18 @@ importantTeams = [
     "Team Vitality",
     "NRG"
     "Cubert Academy"
+]
+
+# List of teams attending Masters Bangkok 2025
+bangkokTeams = [
+    "Trace Esports",
+    "G2 Esports",
+    "EDward Gaming",
+    "Team Liquid",
+    "DRX",
+    "Sentinels",
+    "Team Vitality",
+    "T1"
 ]
 
 

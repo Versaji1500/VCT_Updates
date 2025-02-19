@@ -3,6 +3,14 @@ from email.message import EmailMessage
 from dotenv import dotenv_values
 import http.client, urllib
 
+'''
+Python functions to send a message or an update to a specified
+email address or to the Pushover app using the pushover API
+
+Custom messages can be constructed for either of these depending
+on the need of the overall program
+'''
+
 # Load credentials from .env file
 config = dotenv_values(".env")
 
