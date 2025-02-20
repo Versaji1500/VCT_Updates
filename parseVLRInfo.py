@@ -44,15 +44,18 @@ and return it
 '''
 def mapScoreString(match):
     # Get score info from whichever variable is not "N/A"
-    if (match['team1_round_ct'] != "N/A"):
+    
+    team1score = None
+    team2score = None
+    
+    if match['team1_round_ct'] != "N/A":
         team1score = match['team1_round_ct']
-    elif (match['team2_round_t'] != "N/A"):
+    elif match['team2_round_t'] != "N/A":
         team1score = match['team2_round_t']
-        
-    # Get score info from whichever variable is not "N/A"
-    if (match['team2_round_ct'] != "N/A"):
+
+    if match['team2_round_ct'] != "N/A":
         team2score = match['team2_round_ct']
-    elif (match['team2_round_t'] != "N/A"):
+    elif match['team2_round_t'] != "N/A":
         team2score = match['team2_round_t']
     
     return (f"{team1score} to {team2score}")
