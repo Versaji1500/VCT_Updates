@@ -13,7 +13,8 @@ are designed separately to account for each one
 # Arrays with events and teams to check for in JSON file
 urls = {"events": 'https://vlr.orlandomm.net/api/v1/events',
         "matches": 'https://vlr.orlandomm.net/api/v1/matches',
-        "results": 'https://vlr.orlandomm.net/api/v1/results?page=1'
+        "results": 'https://vlr.orlandomm.net/api/v1/results?page=1',
+        "live_match":  'https://vlrggapi.vercel.app/match?q=live_score'
     }
 
 # List of important events to monitor
@@ -57,7 +58,8 @@ bangkokTeams = [
     "DRX",
     "Sentinels",
     "Team Vitality",
-    "T1"
+    "T1",
+    "Cubert Academy"
 ]
 
 
@@ -74,7 +76,7 @@ def importVLRJSON(request):
         data = response.json()  # Get the API response as JSON
         with open(request+".json", "w", encoding="utf-8") as file:
             json.dump(data, file, indent=4)  # Save to a JSON file with indentation
-        print("Data saved to matches.json")
+        print(f"Data saved to {request}.json")
     else:
         print("Error:", response.status_code)
 
@@ -84,7 +86,7 @@ def getEvents():
     importVLRJSON("events")
     return "events"
 
-# *Function to get list of live and upcoming valorant matches
+# *Function to get upcoming valorant matches
 # *Returns the prefix of the JSON file created
 def getMatchDetails():
     importVLRJSON("matches")
@@ -95,5 +97,9 @@ def getMatchDetails():
 def getMatchResults():
     importVLRJSON("results")
     return "results"
-    
-    
+
+# *Function to get live match results
+# *Returns the prefix of the JSON file created
+def getLiveMatch():
+    importVLRJSON("live_match")
+    return "live_match"
