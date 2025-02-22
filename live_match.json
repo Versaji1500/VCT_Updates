@@ -1,6 +1,28 @@
 {
     "data": {
         "status": 200,
-        "segments": []
+        "segments": [
+            {
+                "team1": "EDward Gaming",
+                "team2": "G2 Esports",
+                "flag1": "flag_cn",
+                "flag2": "flag_us",
+                "team1_logo": "https://owcdn.net/img/62c82049253b2.png",
+                "team2_logo": "https://owcdn.net/img/633822848a741.png",
+                "score1": "0",
+                "score2": "0",
+                "team1_round_ct": "15",
+                "team1_round_t": "N/A",
+                "team2_round_ct": "N/A",
+                "team2_round_t": "14",
+                "map_number": "1",
+                "current_map": "Pearl",
+                "time_until_match": "LIVE",
+                "match_event": "Champions Tour 2025: Masters Bangkok",
+                "match_series": "Swiss Stage: Round 2 (1-0)",
+                "unix_timestamp": "2025-02-22 13:25:00",
+                "match_page": "https://www.vlr.gg/449001/edward-gaming-vs-g2-esports-champions-tour-2025-masters-bangkok-r2-1-0"
+            }
+        ]
     }
 }

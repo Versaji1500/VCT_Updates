@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 
 '''
 This is code to grab information from the VLR API and save
@@ -66,6 +67,9 @@ bangkokTeams = [
 # *Function to get the requested information from the URL that is passed in
 # *The function creates a JSON under the name of information acquired
 def importVLRJSON(request):
+    # Specify save location
+    fileDirectory = "/home/joels/Documents/Projects/VCT_Updates"
+    
     # API URL where the information is hosted
     url = urls.get(request)
     response = requests.get(url)
@@ -74,7 +78,10 @@ def importVLRJSON(request):
     # under the name of the nature of the request
     if response.status_code == 200:
         data = response.json()  # Get the API response as JSON
-        with open(request+".json", "w", encoding="utf-8") as file:
+        
+        file_path = os.path.join(fileDirectory, f"{request}.json")
+        
+        with open(file_path, "w", encoding="utf-8") as file:
             json.dump(data, file, indent=4)  # Save to a JSON file with indentation
         print(f"Data saved to {request}.json")
     else:

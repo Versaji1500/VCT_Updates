@@ -88,7 +88,7 @@ def liveMatchScores():
 
             # Call notification function with acquired information to send notification
             pushoverNotification(msgString, msgTitle)
-        
+                
             
 # Call function to send notification  
 liveMatchScores()
